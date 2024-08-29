@@ -1,0 +1,14 @@
+/home/tomasz/C#/ToDo/bin/Debug/net8.0/ToDo
+/home/tomasz/C#/ToDo/bin/Debug/net8.0/ToDo.deps.json
+/home/tomasz/C#/ToDo/bin/Debug/net8.0/ToDo.runtimeconfig.json
+/home/tomasz/C#/ToDo/bin/Debug/net8.0/ToDo.dll
+/home/tomasz/C#/ToDo/bin/Debug/net8.0/ToDo.pdb
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfoInputs.cache
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfo.cs
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.csproj.CoreCompileInputs.cache
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.dll
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/refint/ToDo.dll
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.pdb
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ToDo.genruntimeconfig.cache
+/home/tomasz/C#/ToDo/obj/Debug/net8.0/ref/ToDo.dll
